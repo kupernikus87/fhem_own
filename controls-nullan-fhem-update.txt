@@ -1,0 +1,2 @@
+
+UPD 2020-07-01_12:17:57 999999 FHEM/fhem_oktv_telefunken_remote.cfg
