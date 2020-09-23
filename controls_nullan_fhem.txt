@@ -1,4 +1,4 @@
-UPD 2020-09-23_00:00:00 999999 FHEM/fhem_oktv_telefunken_remote.cfg
+UPD 2020-09-23_00:00:00 20531 FHEM/fhem_oktv_telefunken_remote.cfg
 UPD 2020-09-23_00:00:00 999998 www/images/default/WLAN_off.png
 UPD 2020-09-23_00:00:00 999997 www/images/default/WLAN_on_gWLAN_off.png
 UPD 2020-09-23_00:00:00 999996 www/images/default/WLAN_on_gWLAN_on.png
