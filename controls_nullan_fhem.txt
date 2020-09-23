@@ -10,3 +10,5 @@ UPD 2020-09-23_00:00:00 999991 www/images/default/FP_Zuhause.png
 UPD 2020-09-23_00:00:00 999990 www/images/default/Weihnachtspaum.off.png
 UPD 2020-09-23_00:00:00 999989 www/images/default/Weihnachtspaum.on.png 
 UPD 2020-09-23_00:00:00 999988 FHEM/darkfloorplanstyle.css
+UPD 2020-09-23_00:00:00 999987 www/images/default/remotecontrol/black_btn_NETFLIX.png
+UPD 2020-09-23_00:00:00 999986 www/images/default/remotecontrol/black_btn_YOUTUBE.png
